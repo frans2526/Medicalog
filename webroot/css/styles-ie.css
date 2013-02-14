@@ -1,0 +1,26 @@
+@charset "utf-8";
+body{
+	margin-top: 90px;
+}
+.body{
+	margin-top:35px;
+}
+.top{
+	top:40px;
+}
+.body .slider{
+	margin-bottom:80px;
+}
+.body #menu{
+	margin-top:0px;
+}
+.body #menu li{
+	/*padding-top:-20px;*/
+	float:left;
+}
+.body nav{
+	margin-top:20px;
+}
+.body #formConnexion fieldset{
+	filter:alpha(opacity=100);
+}
